@@ -1,4 +1,4 @@
-# Ultra-Compact TFET-Based SRAM Design for Low-Power Applications
+### Ultra-Compact TFET-Based SRAM Design for Low-Power Applications
 
 Solid State Devices | TCAD-Based Design and Analysis
 
@@ -83,16 +83,28 @@ and edge computing systems.
 
 #### References
 
-- Gupta et al., “Ultra-Compact SRAM Design Using TFETs for Low Power Low Voltage Applications,” IEEE ISCAS, 2016.  
-  https://ieeexplore.ieee.org/document/7527342
+1. N. Gupta, A. Makosiej, A. Vladimirescu, A. Amara, and C. Anghel,  
+   *“3T-TFET Bitcell Based TFET-CMOS Hybrid SRAM Design for Ultra-Low Power Applications,”*  
+   in **Design, Automation & Test in Europe Conference (DATE)**, 2016, pp. 361–366.  
+   https://ieeexplore.ieee.org/document/7459386
 
-- Gupta et al., “3T-TFET Bitcell Based TFET-CMOS Hybrid SRAM Design for Ultra-Low Power Applications,” DATE, 2016.
+2. K. Bernstein, R. K. Cavin, W. Porod, A. Seabaugh, and J. Welser,  
+   *“Device and Architecture Outlook for Beyond-CMOS Switches,”*  
+   **Proceedings of the IEEE**, vol. 98, no. 12, pp. 2169–2184, 2010.  
+   https://ieeexplore.ieee.org/document/5621748
 
-- Bernstein et al., “Device and Architecture Outlook for Beyond CMOS Switches,” Proceedings of the IEEE, 2010.
+3. V. Saripalli, S. Datta, V. Narayanan, and J. P. Kulkarni,  
+   *“Variation-Tolerant Ultra Low-Power Heterojunction Tunnel FET SRAM Design,”*  
+   in **IEEE/ACM International Symposium on Nanoscale Architectures**, 2011, pp. 45–52.  
+   https://ieeexplore.ieee.org/document/6053773
 
-- Choi et al., “TFETs with Subthreshold Swing Less Than 60 mV/dec,” IEEE Electron Device Letters, 2007.
+4. W. Y. Choi, B.-G. Park, J. D. Lee, and T.-J. K. Liu,  
+   *“Tunneling Field-Effect Transistors (TFETs) With Subthreshold Swing Less Than 60 mV/Dec,”*  
+   **IEEE Electron Device Letters**, vol. 28, no. 8, pp. 743–745, 2007.  
+   https://ieeexplore.ieee.org/document/4277093
 
-- Seabaugh and Zhang, “Low-Voltage Tunnel Transistors for Beyond CMOS Logic,” Proceedings of the IEEE, 2010.
+5. N. Gupta, A. Makosiej, A. Vladimirescu, A. Amara, and C. Anghel,  
+   *“Ultra-Compact SRAM Design Using TFETs for Low-Power Low-Voltage Applications,”*  
+   in **IEEE International Symposium on Circuits and Systems (ISCAS)**, 2016, pp. 594–597.  
+   https://ieeexplore.ieee.org/document/7527339
 
-- Ahmad et al., “Robust TFET SRAM Cell for Ultra-Low Power IoT Applications,” AEU – International Journal of Electronics and Communications, 2018.  
-  https://www.sciencedirect.com/science/article/pii/S1434841117325049
