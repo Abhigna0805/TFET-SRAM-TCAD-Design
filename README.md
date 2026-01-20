@@ -83,9 +83,21 @@ and edge computing systems.
 
 #### References
 
-http://large.stanford.edu/courses/2012/ph250/esfandyarpour1/
-https://ieeexplore.ieee.org/document/7459337
-https://ieeexplore.ieee.org/document/4278352
-https://ieeexplore.ieee.org/document/10396357
-https://www.sciencedirect.com/science/article/abs/pii/S0038110104001121
+## References
+
+1. Stanford University (EE/PH250 Resource), *Tunnel Field-Effect Transistor (TFET) background / notes.*  
+   http://large.stanford.edu/courses/2012/ph250/esfandyarpour1/
+
+2. N. Gupta et al., *“3T-TFET Bitcell Based TFET-CMOS Hybrid SRAM Design for Ultra-Low Power Applications,”* DATE 2016.  
+   https://ieeexplore.ieee.org/document/7459337
+
+3. W. Y. Choi et al., *“Tunneling Field-Effect Transistors (TFETs) with Subthreshold Swing (SS) < 60 mV/dec,”* IEEE Electron Device Letters, 2007.  
+   https://ieeexplore.ieee.org/document/4278352
+
+4. R. Wei et al., *“A Novel TFET-MOSFET Hybrid SRAM for Ultra-Low-Power Applications,”* ASICON 2023.  
+   https://ieeexplore.ieee.org/document/10396357
+
+5. *Device / semiconductor characterization reference (ScienceDirect article).*  
+   https://www.sciencedirect.com/science/article/abs/pii/S0038110104001121
+
 
