@@ -83,8 +83,6 @@ and edge computing systems.
 
 #### References
 
-## References
-
 1. Stanford University (EE/PH250 Resource), *Tunnel Field-Effect Transistor (TFET) background / notes.*  
    http://large.stanford.edu/courses/2012/ph250/esfandyarpour1/
 
